@@ -1,3 +1,5 @@
 # hangman
 
 test
+
+oo
